@@ -9,8 +9,8 @@ DHT dht(DHTPIN, DHTTYPE, 11);
 float t; //variáveis que armazerão temperatura
 
 String apiWritekey = "D6Q7HB1EKIX3BAAI"; // substitua com a sua chave THINGSPEAK WRITEAPI aqui
-const char* ssid = "KROSSCMA"; // seu nome SSID wifi
-const char* password = "kross4444" ;// senha do wifi
+const char* ssid = "iPhone de Cesar"; // seu nome SSID wifi
+const char* password = "cesar246" ;// senha do wifi
  
 const char* server = "api.thingspeak.com";
 WiFiClient client;
